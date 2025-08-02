@@ -1,4 +1,4 @@
 issuer: https://token.actions.githubusercontent.com
 subject: repo:rgl/github-octo-sts-playground:ref:refs/heads/main
 permissions:
-  contents: read
+  contents: write
